@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       Charitable - Shipping Fields
- * Plugin URI:
+ * Plugin URI:        https://github.com/Charitable/Charitable-Shipping-Fields/
  * Description:       Add a Shipping Fields section to your donation form.
  * Version:           0.1
  * Author:            WPCharitable
